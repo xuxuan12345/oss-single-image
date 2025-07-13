@@ -1,0 +1,10 @@
+{
+  "name": "oss-single-image",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "ali-oss": "^6.17.1"
+  }
+}
